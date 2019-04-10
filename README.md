@@ -1,6 +1,8 @@
 # Unit testing with F# demo
 
-Demo code for my ON.NET show about unit testing with F#
+Demo code for my ON.NET show about unit testing with F#.
+
+Borrowed heavily from the excellent @swlaschin's article on property based testing with F#.
 
 ## Prerequisites
 
