@@ -2,7 +2,7 @@
 
 Demo code for my ON.NET show about unit testing with F#.
 
-Borrowed heavily from the excellent @swlaschin article on property based testing with F#.
+Borrowed heavily from the excellent [@swlaschin](https://github.com/swlaschin)'s article on property based testing with F#.
 
 ## Prerequisites
 
